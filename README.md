@@ -1,7 +1,5 @@
 # NOVA Explorer
 
- telegr -------------------@Oleksandr_p0112---------------------------
-
 JavaScript and Vue based NOVA explorer.
 
 We are using:
